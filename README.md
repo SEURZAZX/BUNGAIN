@@ -1,5 +1,5 @@
 # kado
 -
-connect to @syahril
 
-copyright
+<p></p>
+#169 connect to @syahril
